@@ -1,5 +1,16 @@
 # Udemy_DataStructures.Algorithms 💻
+<details>
 
-## **DataStructures**❕
-----------------
-### 1. Big O
+## <summary>**DataStructures**❕</summary>
+
+### <summary>1. Big O</summary>
+
+
+
+
+
+
+
+
+
+</details>

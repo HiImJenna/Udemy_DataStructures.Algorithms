@@ -3,7 +3,7 @@
 
 ## <summary>**DataStructures**❕</summary>
 
-### <summary>1. Big O</summary>
+### 1. Big O
 
 
 

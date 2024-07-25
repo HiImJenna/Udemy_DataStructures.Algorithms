@@ -19,7 +19,7 @@
 const boxes = ['a','b','c','d','e'];
 
 function logAllPairsOfArray(array) {
-    for(let i = 0; i < array.lenght; i++;) {
+    for(let i = 0; i < array.length; i++;) {
         for(let j = 0; j < array.length; j++>) {
             console.log(array[i], array[j])
         }
@@ -34,6 +34,32 @@ logAllPairsOfArray(array);
 - Different terms of input
 - Drop non Dominants : O(n^2 + 3x + 100 + x/2) -> O(n^2)        **simplify!!**
 <br>
+
+</details>
+
+
+
+<details>
+<summary> Data Structure </summary>
+
+## 1. Array
+|||
+|------|---|
+|lookup|O(1)|
+|push|O(1)|
+|insert|O(n)|
+|delete|O(n)|
+
+
+
+
+
+
+
+
+
+
+
 
 
 
